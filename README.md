@@ -4,22 +4,22 @@ I with my batchmates done a zomato food sales analysis .
 The source of my dataset is https://www.kaggle.com/code/ahmedmohamedmahrous/zomato-restaurants-analysis
 
 My dataset include following meta data :-
-url
-address	name	
-online_order	
-book_table	
-rate	
-votes	
-phone	
-location	
-rest_type	
-dish_liked	
-cuisines	
-approx_cost(for two people)	
-reviews_list	
-menu_item	
-listed_in(type)	
-listed_in(city)
+url,
+address	name,	
+online_order,	
+book_table,	
+rate,
+votes,	
+phone	,
+location,	
+rest_type,	
+dish_liked,	
+cuisines,	
+approx_cost(for two people),	
+reviews_list,	
+menu_item	,
+listed_in(type),	
+listed_in(city).
 
 The evaluation includes :-
 1) DATA CLEANING
